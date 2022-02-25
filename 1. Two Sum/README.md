@@ -4,7 +4,7 @@ This algorithm uses the brute-force method to solve the problem by using two loo
 The first loop check for the first number the entire list, the second loop check for the numbers after the first number.
 If the first number adds the second number equal to the target value then return the the index of both numbers.
 
-Time Complexity: **O(n^2)**\
+Time Complexity: **O(n<sub>2</sub>)**\
 Space Complexity: **O(1)**
 
 
