@@ -1,6 +1,6 @@
 # LeetCode
 
-All LeetCode solution are written in C++ and Python3
+All LeetCode solutions are written in C++ and Python3
 
 | No. |                               Poblems                                         |      Solution       | Difficulty|  Tag   |               
 | --- |-------------------------------------------------------------------------------|---------------------|-----------|--------|              
