@@ -17,7 +17,8 @@ All LeetCode solutions are written in C++ and Python3
 |  11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                             | [C++](https://github.com/Solitudez/LeetCode/tree/main/0011.%20Container%20With%20Most%20Water) <br> [Python]()| Medium| `Array` `Two Pointers` `Greedy`|
 |  12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                             | [C++](https://github.com/Solitudez/LeetCode/tree/main/0012.%20Integer%20to%20Roman) <br> [Python]()| Medium| `Hash Table` `Math` `String`|
 |  13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                             | [C++](https://github.com/Solitudez/LeetCode/tree/main/0013.%20Roman%20to%20Integer) <br> [Python]()| Easy| `Hash Table` `Math` `String`|
-
+|  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | [C++]() <br> [Python]()| Easy| `String`|
+|  15  | [3Sum](https://leetcode.com/problems/3sum/)                             | [C++](https://github.com/Solitudez/LeetCode/blob/main/0015.%203Sum/Solution.cpp) <br> [Python]()| Medium| `Array` `Two Pointers` `Sorting`|
 
 
 
