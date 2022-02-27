@@ -2,6 +2,10 @@
 
 All LeetCode solutions are written in C++ and Python3
 
+Contributers: Solitudez, Soonfalim
+
+Thanks to all contributers for contributing in this project
+
 | No. |                               Poblems                                         |      Solution       | Difficulty|  Tag   |               
 | --- |-------------------------------------------------------------------------------|---------------------|-----------|--------|              
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/)                             | [C++](https://github.com/Solitudez/LeetCode/blob/main/0001.%20Two%20Sum/Solution.cpp) <br> [Python](https://github.com/Solitudez/LeetCode/blob/main/0001.%20Two%20Sum/Solution.py)| Easy| `Array` `Hash Table`|
