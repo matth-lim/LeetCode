@@ -2,7 +2,7 @@
 
 All LeetCode solutions are written in C++ and Python3
 
-Contributers: Solitudez, Soonfalim
+Contributers: Solitude, Ang
 
 Thanks to all contributers for contributing in this project
 
