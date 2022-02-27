@@ -19,7 +19,9 @@ If we found a match in the hashtable then we can return the index of both number
 We only need to loop through the entire list once.
 
 Time Complexity: **O(n)**\
-Space Complexity: **O(n)**
+Space Complexity: **O(n)**L
+
+L
 
 
 
