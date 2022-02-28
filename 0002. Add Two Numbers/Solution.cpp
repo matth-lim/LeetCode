@@ -10,7 +10,7 @@ struct ListNode {
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-            ListNode* result = new ListNode();
+        ListNode* result = new ListNode();
 	    ListNode* result_ptr = result;
 	    int carry = 0;
 	    while (l1 || l2)
