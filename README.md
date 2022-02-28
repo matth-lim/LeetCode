@@ -23,7 +23,7 @@ Thanks to all contributers for contributing in this project
 |  13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                             | [C++](https://github.com/Solitudez/LeetCode/tree/main/0013.%20Roman%20to%20Integer) <br> [Python]()| Easy| `Hash Table` `Math` `String`|
 |  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | [C++]() <br> [Python]()| Easy| `String`|
 |  15  | [3Sum](https://leetcode.com/problems/3sum/)                             | [C++](https://github.com/Solitudez/LeetCode/blob/main/0015.%203Sum/Solution.cpp) <br> [Python]()| Medium| `Array` `Two Pointers` `Sorting`|
-|  167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                             | [C++](https://github.com/Solitudez/LeetCode/blob/main/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Solution.cpp) <br> [Python]()| Medium| `Array` `Two Pointers` `Binary Search`|
+|  167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                             | [C++](https://github.com/Solitudez/LeetCode/blob/main/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Solution.cpp) <br> [Python](https://github.com/Solitudez/LeetCode/blob/main/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Solution.py)| Medium| `Array` `Two Pointers` `Binary Search`|
 
 
 
