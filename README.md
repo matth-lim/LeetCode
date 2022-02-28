@@ -2,7 +2,9 @@
 
 All LeetCode solutions are written in C++ and Python3
 
-Contributers: Solitude, Ang
+Started on: 25 February 2022
+
+Contributers: Solitudez, Soonfalim
 
 Thanks to all contributers for contributing in this project
 
