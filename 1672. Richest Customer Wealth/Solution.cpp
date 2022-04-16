@@ -9,7 +9,7 @@ public:
         for (auto i: accounts)
         {
             int count = 0;
-            for (auto j: i)fvfdvdf
+            for (auto j: i)
             {
                 count += j;gb
             }
