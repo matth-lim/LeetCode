@@ -4,7 +4,7 @@ All LeetCode solutions are written in C++ and Python3
 
 Started on: 25<sup>th</sup> February 2022
 
-Contributers: Solitudez, Soonfalim
+Contributers: Solitudez, Soonfalim, 
 
 Thanks to all contributers for contributing in this project
 
