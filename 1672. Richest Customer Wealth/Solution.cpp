@@ -1,6 +1,7 @@
 #include <vector>
+#include <algorithm>
 
-using std::vector;
+using std::vector, std::max;
 
 class Solution {
 public:
