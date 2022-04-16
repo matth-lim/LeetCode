@@ -11,7 +11,7 @@ public:
             int count = 0;
             for (auto j: i)
             {
-                count += j;gb
+                count += j;
             }
             res = max(res, count);
         }
